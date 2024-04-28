@@ -1,0 +1,5 @@
+# ninja log v5
+6	1110	7360426432081520	CMakeFiles/Trabalho.dir/main.c.obj	c093a7465e39c7b
+13	1221	7360365173307767	CMakeFiles/Trabalho.dir/introsort.c.obj	53d62fd75d5f788f
+1111	1582	7360426436779776	Trabalho.exe	c67a5ae36dc01e28
+2	762	7360459245150882	build.ninja	da3e1bac34730ccc

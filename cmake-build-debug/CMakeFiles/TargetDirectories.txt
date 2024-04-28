@@ -1,0 +1,3 @@
+C:/Users/Fabricius2/Documents/UNIFEI/Semestre 4/Algoritmos e Estruturas de Dados II/Trabalho/benchmarking_sorting_algorithms/cmake-build-debug/CMakeFiles/Trabalho.dir
+C:/Users/Fabricius2/Documents/UNIFEI/Semestre 4/Algoritmos e Estruturas de Dados II/Trabalho/benchmarking_sorting_algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Fabricius2/Documents/UNIFEI/Semestre 4/Algoritmos e Estruturas de Dados II/Trabalho/benchmarking_sorting_algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
