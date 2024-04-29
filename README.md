@@ -9,4 +9,4 @@ The following sorting algorithms are included in the class Benchmarking:
 | **SelectionSort** | O(n²) | O(n²) | O(n²) | 
 | **QuickSort** | O(n log(n)) | O(n log(n)) | O(n²) |
 | **MergeSort** | O(n log(n)) | O(n log(n)) | O(n log(n)) |
-| **IntoSort** | O(n log(n)) | O(n log(n)) | O(n log(n)) |
+| **IntroSort** | O(n log(n)) | O(n log(n)) | O(n log(n)) |
